@@ -1,0 +1,5 @@
+del "C:\temp\SystemLogs.evtx"
+del "C:\temp\AppLogs.evtx"
+mkdir "C:\Temp"
+wevtutil epl System "C:\temp\SystemLogs.evtx"
+wevtutil epl Application "C:\temp\AppLogs.evtx"

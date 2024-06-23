@@ -1,0 +1,2 @@
+echo %userdomain%
+echo %username%

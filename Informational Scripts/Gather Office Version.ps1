@@ -1,0 +1,1 @@
+cscript.exe "C:\Program Files (x86)\Microsoft Office\Office16\"ospp.vbs /dstatus

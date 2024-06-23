@@ -1,0 +1,1 @@
+New-ItemProperty -Path HKLM:System\CurrentControlSet\Services\LanmanServer\Parameters\ -Name "RequireSecuritySignature" -Value 1 -PropertyType "DWord" -Force

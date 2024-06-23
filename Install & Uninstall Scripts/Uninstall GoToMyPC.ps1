@@ -1,0 +1,1 @@
+Get-Package -Name "GoToMyPC" | Uninstall-Package

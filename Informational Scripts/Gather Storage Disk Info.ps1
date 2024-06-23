@@ -1,0 +1,1 @@
+wmic diskdrive get Name, Manufacturer, Model, InterfaceType, MediaType, SerialNumber

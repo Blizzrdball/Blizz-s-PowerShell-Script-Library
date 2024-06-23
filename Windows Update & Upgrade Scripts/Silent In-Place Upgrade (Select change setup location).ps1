@@ -1,0 +1,1 @@
+C:\temp\Win10_1909_English_x64\setup.exe /auto upgrade /quiet /showoobe none /Telemetry disable

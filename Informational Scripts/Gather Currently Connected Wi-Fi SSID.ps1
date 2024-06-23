@@ -1,0 +1,1 @@
+netsh wlan show interfaces | select-string SSID

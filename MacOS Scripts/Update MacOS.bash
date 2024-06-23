@@ -1,0 +1,1 @@
+softwareupdate -i -a

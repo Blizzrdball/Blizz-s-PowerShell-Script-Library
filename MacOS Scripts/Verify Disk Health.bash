@@ -1,0 +1,1 @@
+diskutil verifyVolume "Macintosh HD"

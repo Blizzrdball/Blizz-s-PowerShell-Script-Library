@@ -1,0 +1,1 @@
+repadmin /syncall /AdeP

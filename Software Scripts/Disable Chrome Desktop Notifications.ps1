@@ -1,0 +1,1 @@
+reg add "HKLM\SOFTWARE\Policies\Google\Chrome" /v "DefaultNotificationsSetting" /t "REG_DWORD" /d 2 /f

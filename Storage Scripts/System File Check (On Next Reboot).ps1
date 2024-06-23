@@ -1,0 +1,1 @@
+echo y|chkdsk c: /f  /x -Verbose:$false

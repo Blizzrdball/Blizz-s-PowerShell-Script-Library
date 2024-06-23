@@ -1,0 +1,1 @@
+New-ItemProperty -Path "HKCU:\Software\Microsoft\Office\16.0\OneNote" -Name "FirstBootStatus" -Value "01000101" -PropertyType "DWord" -Force

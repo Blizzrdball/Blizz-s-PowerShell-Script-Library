@@ -1,0 +1,1 @@
+reg add HKLM\Software\Policies\Microsoft\Windows\System /v GpNetworkStartTimeoutPolicyValue /t REG_DWORD /d 90 /f
